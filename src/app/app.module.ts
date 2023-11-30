@@ -11,7 +11,7 @@ import { ArtistsService } from './services/artists.service';
 import { AppComponent } from './app.component';
 import { HomeComponent } from './components/home/home.component';
 import { AboutComponent } from './components/about/about.component';
-import { NavbarComponent } from './layout/navbar/navbar.component';
+//import { NavbarComponent } from './layout/navbar/navbar.component';
 import { ArtistsComponent } from './components/artists/artists.component';
 import { ArtistaTarjetaComponent } from './components/artista-tarjeta/artista-tarjeta.component';
 import { ArtistComponent } from './components/artist/artist.component';
